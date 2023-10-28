@@ -61,9 +61,9 @@ This combination of XGBoost and deep learning, along with strategic optimization
 - Score: 1.45784 (lower is better).
 - Key factors influencing sales include the product family, store number, and whether a product is being promoted or not
 - This project has the potential to reduce food waste and enhance customer satisfaction for grocery stores.
-<img src="https://github.com/AmirFARES/Store-Sales-Forecasting/blob/main/imgs/FeatureImportance.png" alt="Line Chart" width="500" height="279">
+<img src="https://github.com/AmirFARES/Store-Sales-Forecasting/blob/main/imgs/FeatureImportance.png" alt="Line Chart" width="700" height="390">
 
-<img src="https://github.com/AmirFARES/Store-Sales-Forecasting/blob/main/imgs/PredictionsPlotted.png" alt="Line Chart" width="500" height="265">  
+<img src="https://github.com/AmirFARES/Store-Sales-Forecasting/blob/main/imgs/PredictionsPlotted.png" alt="Line Chart" width="700" height="371">  
 
 ## Future Work 🚧
 
