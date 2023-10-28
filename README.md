@@ -42,7 +42,11 @@ We cleaned the data, handled missing values, and performed one-hot encoding. Add
 
 ## Model Architecture 🏗️
 
-Our model architecture consists of a combination of XGBoost and deep learning models. We also implemented techniques like early stopping and learning rate decay to improve model performance.
+Our model architecture is a fusion of two powerful techniques: XGBoost and deep learning models. Specifically, we employ the XGBoost model, a robust gradient-boosting algorithm, to capture essential patterns in the data efficiently. Additionally, we incorporate deep learning models to leverage their capacity to capture intricate temporal dependencies.
+
+To ensure the best model performance, we implement techniques like early stopping, which helps prevent overfitting by monitoring model performance during training. Furthermore, we utilize learning rate decay, which adjusts the learning rate over time to fine-tune model convergence and accuracy.
+
+This combination of XGBoost and deep learning, along with strategic optimizations, empowers our model to provide accurate sales forecasts for the project.
 
 ## Training and Evaluation 📈
 
