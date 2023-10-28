@@ -25,7 +25,7 @@ All data for this project was obtained from the [**Store Sales - Time Series For
 - **holidays_events.csv**: Holidays and Events dataset, including information on transferred and bridge holidays.
 and more ...
 
-You can check [**my Kaggle Notebook**](https://www.kaggle.com/code/amirfares/time-series-forcasting-getting-started) or [****](https://github.com/AmirFARES/Store-Sales-Forecasting/blob/main/time-series-forcasting-getting-started.ipynb)
+You can check [**my Kaggle Notebook**](https://www.kaggle.com/code/amirfares/time-series-forcasting-getting-started) or [**time-series-forcasting-getting-started.ipynb**](https://github.com/AmirFARES/Store-Sales-Forecasting/blob/main/time-series-forcasting-getting-started.ipynb)
 
 ## Methodology 🚀
 
